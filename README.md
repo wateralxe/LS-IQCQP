@@ -1,12 +1,12 @@
 # LS-IQCQP
-LS-IQCQP is a Local Search solver for integer qcqp problem. 
+LS-IQCQP is a Local Search solver for Integer QCQP problem. 
 
 
 
 
 
 
-To use the solver,  run ./qpsolver cutoff_time filename.lp.
+To use the solver,  run ./qpsolver cutoff_time(second) filename.lp.
 
 The "sonet" folder contains instances for testing.
 
