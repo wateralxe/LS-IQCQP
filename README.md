@@ -13,11 +13,10 @@
 - The "sonet" folder contains instances for **testing.**
 
 
+-  Experiments are conducted on a server with Intel Xeon Platinum 8153 2.00GHz and 2048G RAM under the system CentOS 7.7.1908. we found the new primal bound of two instances within cutoff **300s**
+
 
 - "run.sh" is a simple example of using the solver.
 
   
-
--  Experiments are conducted on a server with Intel Xeon Platinum 8153 2.00GHz and 2048G RAM under the system CentOS 7.7.1908. we found the new primal bound of two instances within cutoff **300s**
-
 
