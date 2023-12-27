@@ -6,14 +6,14 @@
 
 
 
-- To use the solver,  **run ./qpsolver cutoff_time(second) filename.lp.** 
+- To use the solver,  **run ./qpsolver cutoff_time(second) filename.lp**. 
 
 
 
-- We choose the BQCQP instances in the MINLPLIB (QPLIB) located in the 'sonet' folder for **testing.**.
+- We choose the BQCQP instances in the MINLPLIB (QPLIB) located in the 'sonet' folder for **testing**.
 
 
--  Experiments are conducted on a server with Intel Xeon Platinum 8153 2.00GHz and 2048G RAM under the system CentOS 7.7.1908. we found the new primal bound of two instances within cutoff **300s**
+-  Experiments are conducted on a server with Intel Xeon Platinum 8153 2.00GHz and 2048G RAM under the system CentOS 7.7.1908. we found the new primal bound of two instances within cutoff **300s**.
 
 
 - "run.sh" is a simple example of using the solver.
