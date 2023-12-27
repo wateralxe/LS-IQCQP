@@ -1,5 +1,5 @@
 # LS-IQCQP
-LS-IQCQP is a Local Search solver for Integer(Binary) QCQP problem. 
+LS-IQCQP is a Local Search solver for Binary QCQP problem. 
 
 
 
