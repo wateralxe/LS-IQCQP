@@ -8,7 +8,7 @@
 
 ## Publication and Code
 
-The paper, titled **“Local Search for Integer Quadratic Programming,”** has been accepted by **INFORMS Journal on Computing**.
+The paper, titled **“Local Search for Integer Quadratic Programming,”** describes the LS-IQCQP solver, including its local search framework, operator design, and experimental performance, and has been accepted by **INFORMS Journal on Computing**.
 
 The source code is publicly available at:
 
